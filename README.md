@@ -7,11 +7,6 @@
   <img src="https://img.shields.io/github/stars/yarzarseinwin?style=for-the-badge&color=0e75b6" />
 </p>
 
-
-> 🧠 *"Automating today, scaling tomorrow — DevOps is not a role, it’s a culture."*
-
----
-
 ---
 
 ### 🌟 About Me  
@@ -33,13 +28,12 @@
 
 ---
 
-### 🤝 Connect With Me
+#### 🤝 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/yarzar-sein-win-steven-295219104" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://https://github.com/yarzarseinwin" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-<a href="https://dev.to/yarzarseinwin" target="_blank"><img src="https://skillicons.dev/icons?i=devto" height="40"/></a>
+<a href="https://linkedin.com/in/yarzar-sein-win-steven-295219104" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="25"/></a>
+<a href="https://github.com/yarzarseinwin" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="25"/></a>
+<a href="https://dev.to/yarzarseinwin" target="_blank"><img src="https://skillicons.dev/icons?i=devto" height="25"/></a>
 </p>
-
 
 ---
 
@@ -241,6 +235,11 @@ ServiceNow, Jira
 - 🔐 Led adoption of **Cloud-Native Security Practices** company-wide  
 - 📈 Improved deployment velocity by **300%** with modern pipelines  
 
+
+---
+
+
+> 🧠 *"Automating today, scaling tomorrow — DevOps is not a role, it’s a culture."*
 
 ---
 
