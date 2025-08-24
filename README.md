@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7A5&center=true&vCenter=true&width=1000&lines=Principal+DevOps+Engineer;Kubernetes+%7C+Cloud-Native+%7C+SRE;CI%2FCD+%7C+GitOps+%7C+DevSecOps;Scaling+Infrastructure+%7C+Automating+Everything)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7A5&center=true&vCenter=true&width=1000&lines=Principal+CI/CD+Engineer;Kubernetes+%7C+Cloud-Native+%7C+SRE;Dev%2FOps+%7C+GitOps+%7C+DevSecOps;Scaling+Infrastructure+%7C+Automating+Everything)](https://git.io/typing-svg)
 
 
 ---
