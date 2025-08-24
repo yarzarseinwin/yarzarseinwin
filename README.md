@@ -1,3 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7A5&center=true&vCenter=true&width=1000&lines=Principal+DevOps+Engineer;Kubernetes+%7C+Cloud-Native+%7C+SRE;CI%2FCD+%7C+GitOps+%7C+DevSecOps;Scaling+Infrastructure+%7C+Automating+Everything)](https://git.io/typing-svg)
+
+
+---
+
 <h1 align="center">Hi 👋, I'm Steven (Yarzar Sein Win)</h1>
 <h4 align="center">🚀 Principal Engineer | Kubernetes | Cloud-Native | DevOps | DevSecOps | GitOps | SRE</h4>
 
@@ -37,10 +42,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7A5&center=true&vCenter=true&width=1000&lines=Principal+DevOps+Engineer;Kubernetes+%7C+Cloud-Native+%7C+SRE;CI%2FCD+%7C+GitOps+%7C+DevSecOps;Scaling+Infrastructure+%7C+Automating+Everything)](https://git.io/typing-svg)
 
-
----
 <h1 align="center">⚒️ Tech Stack & Tools</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=600&color=00CFFF&center=true&vCenter=true&width=1200&lines=Jenkins+%7C+GitLab+CI%2FCD+%7C+GitHub+Actions+%7C+ArgoCD;GitHub+%7C+GitLab+%7C+JUnit+%7C+Maven+%7C+Gradle;Nexus+%7C+JFrog+Artifactory+%7C+AWS+ECR+%7C+Harbor;Trivy+%7C+SonarQube+%7C+Snyk+%7C+OWASP+ZAP+%7C+OpenPubKey;Selenium+%7C+Locust+%7C+JMeter;Datadog+%7C+OpenTelemetry)](https://git.io/typing-svg)
