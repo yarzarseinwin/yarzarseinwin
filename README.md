@@ -163,7 +163,26 @@ Spring Cloud, Ocelot, Postman
 ServiceNow, Jira  
 
 ---
-![Fake A+](https://img.shields.io/badge/GitHub%20Stats-A%2B-blue?style=for-the-badge&logo=github)
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Grade-A%2B-blue?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  <b>Steven @ Yarzar Sein Win's GitHub Stats</b><br/>
+  <b>Grade:</b> A+ <br/>
+  <b>Total Stars Earned:</b> 25 <br/>
+  <b>Total Commits (2025):</b> 320 <br/>
+  <b>Total PRs:</b> 18 <br/>
+  <b>Total Issues:</b> 10 <br/>
+  <b>Contributed to (last year):</b> 12 <br/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yarzarseinwin&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yarzarseinwin&theme=radical" height="160"/>
+</p>
 
 ---
 
