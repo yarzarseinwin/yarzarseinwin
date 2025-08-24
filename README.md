@@ -57,10 +57,9 @@
   <img src="assets/icons/argocd.svg" width="40"/>
   <img src="assets/icons/junit.svg" width="40"/>
   <img src="assets/icons/maven.svg" width="40"/>
-  <img src="assets/icons/msbuild.svg" width="40"/>
   <img src="assets/icons/gradle.svg" width="40"/>
   <img src="assets/icons/nexus.svg" width="40"/>
-  <img src="assets/icons/jfrog-artifactory.svg" width="40"/>
+  <img src="assets/icons/jfrog.svg" width="40"/>
   <img src="assets/icons/amazon-ecr.svg" width="40"/>
   <img src="assets/icons/harbor.svg" width="40"/>
   <img src="assets/icons/trivy.svg" width="40"/>
