@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/github/stars/yarzarseinwin?style=for-the-badge&color=0e75b6" />
 </p>
 
----
 
 ### 🌟 About Me  
 - 🔭 Currently working as **Principal Engineer @ SSMC**  
@@ -29,7 +28,7 @@
   - Scalability & High Availability Architectures  
 - 📫 Reach me at: **yarzarseinwin@gmail.com & stevenseinwin@gmail.com**  
 
----
+
 
 #### 🤝 Connect With Me
 <p align="left">
