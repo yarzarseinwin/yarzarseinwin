@@ -107,6 +107,7 @@
   <img src="assets/icons/jira.svg" width="40"/>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00CFFF&center=true&vCenter=true&width=1200&lines=JUnit+%7C+xUnit+%7C+Maven+%7C+MSBuild+%7C+Gradle+%7C+Nexus+%7C+JFrog+Artifactory+%7C+Docker+Build+%7C+AWS+ECR+%7C+Harbor;Trivy+%7C+SonarQube+%7C+Snyk+%7C+OWASP+ZAP+%7C+OpenPubkey;Jenkins+%7C+GitLab+%7C+GitLab+CI%2FCD+%7C+GitHub+%7C+GitHub+Actions;ArgoCD+%7C+Argo+Rollouts;Selenium+%7C+Locust+%7C+JMeter;Datadog+%7C+OpenTelemetry+%7C+Prometheus+%7C+Grafana+%7C+ELK+%2F+Elastic+Observability+%7C+Jaeger+%7C+Kiali;Terraform+%7C+Ansible;Kubernetes+%7C+Docker+%7C+Rancher+Manager+%7C+RKE2+%7C+Helm+%7C+Kustomize+%7C+Istio+%7C+Envoy+%7C+Calico+%7C+Cilium+%7C+Hubble+UI+%7C+eBPF+%7C+Vault+%7C+Consul;AWS+%7C+Azure;Linux+%7C+Red+Hat+%7C+Ubuntu+%7C+CentOS+%7C+Windows;Python+%7C+Java;PostgreSQL+%7C+MySQL;Spring+Cloud+%7C+Ocelot+%7C+Postman;ServiceNow+%7C+Jira)](https://git.io/typing-svg)
 
 
 ## ⚙️ DevOps Stack  
