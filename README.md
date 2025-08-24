@@ -42,7 +42,7 @@
 
 ---
 <h1 align="center">⚒️ Tech Stack & Tools</h1>
-# ⚒️ Tech Stack & Tools
+
 <p align="center">
   <img src="assets/icons/jenkins.svg" width="40"/>
   <img src="assets/icons/gitlab.svg" width="40"/>
