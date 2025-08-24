@@ -46,6 +46,7 @@
 
 <p align="center">
   <img src="assets/icons/jenkins.svg" width="40"/>
+  <img src="assets/icons/git.svg" width="40"/>
   <img src="assets/icons/gitlab.svg" width="40"/>
   <img src="assets/icons/github.svg" width="40"/>
   <img src="assets/icons/github-actions.svg" width="40"/>
@@ -63,9 +64,11 @@
   <img src="assets/icons/selenium.svg" width="40"/>
   <img src="assets/icons/datadog.svg" width="40"/>
   <img src="assets/icons/opentelemetry.svg" width="40"/>
+    <img src="assets/icons/Elastic-Search.svg" width="40"/>
   <img src="assets/icons/prometheus.svg" width="40"/>
   <img src="assets/icons/grafana.svg" width="40"/>
-  <img src="assets/icons/elk.svg" width="40"/>
+  <img src="assets/icons/Logstash.svg" width="40"/>
+  <img src="assets/icons/Kibana.svg" width="40"/>
   <img src="assets/icons/jaeger.svg" width="40"/>
   <img src="assets/icons/kiali.svg" width="40"/>
   <img src="assets/icons/terraform.svg" width="40"/>
@@ -80,6 +83,7 @@
   <img src="assets/icons/envoy.svg" width="40"/>
   <img src="assets/icons/calico.svg" width="40"/>
   <img src="assets/icons/cilium.svg" width="40"/>
+  <img src="assets/icons/Test.svg" width="40"/>
   <img src="assets/icons/hubble-ui.svg" width="40"/>
   <img src="assets/icons/ebpf.svg" width="40"/>
   <img src="assets/icons/vault.svg" width="40"/>
