@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven (Yarzar Sein Win)</h1>
-<h3 align="center">🚀 Principal DevOps Engineer | Kubernetes | Cloud-Native | SRE</h3>
-
+<h3 align="center">🚀 Principal Engineer | Kubernetes | Gen-3 CI/CD (CI with DevSecOps & CD with GitOps) | Cloud-Native | SRE</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yarzarseinwin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
