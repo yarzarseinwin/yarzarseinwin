@@ -199,6 +199,62 @@ ServiceNow, Jira
 
 ---
 
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/yarzarseinwin?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/yarzarseinwin?style=for-the-badge" />
+</p>
+
+---
+
+### 🎓 Certifications
+- 🏅 AWS Certified Solutions Architect  
+- 🏅 Certified Kubernetes Administrator (CKA)  
+- 🏅 Terraform Associate  
+
+---
+
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Kubernetes GitOps with ArgoCD](#)
+- [Terraform Best Practices for Multi-Cloud](#)
+- [Observability with Prometheus + Grafana](#)
+<!-- BLOG-POST-LIST:END -->
+
+
+---
+
+
+> whoami
+👨‍💻 Steven (Yarzar Sein Win) | Principal DevOps Engineer  
+
+> skills --list
+🛠️ Kubernetes | CI/CD | Terraform | GitOps | Cloud-Native | DevSecOps | SRE | Observability  
+
+> contact --email
+📧 yarzarseinwin@gmail.com  
+
+---
+
+### 🏆 Key Achievements
+- 🚀 Built **Enterprise-Scale Kubernetes CI/CD (GitOps + DevSecOps)** at SSMC  
+- ☁️ Designed **Multi-Cloud Infrastructure with Terraform** (AWS + GCP)  
+- 🔐 Led adoption of **Cloud-Native Security Practices** company-wide  
+- 📈 Improved deployment velocity by **300%** with modern pipelines  
+
+
+---
+
+### 📝 Latest Posts
+<!-- BLOG-POST-LIST:START -->
+- [Kubernetes GitOps with ArgoCD](#)
+- [Multi-Cloud with Terraform](#)
+- [SRE Best Practices in Real-World Systems](#)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+
 <p align="center">
   <!-- DevOps & CI/CD -->
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
@@ -281,61 +337,5 @@ ServiceNow, Jira
 
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/yarzarseinwin?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/yarzarseinwin?style=for-the-badge" />
-</p>
-
----
-
-### 🎓 Certifications
-- 🏅 AWS Certified Solutions Architect  
-- 🏅 Certified Kubernetes Administrator (CKA)  
-- 🏅 Terraform Associate  
-
----
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Kubernetes GitOps with ArgoCD](#)
-- [Terraform Best Practices for Multi-Cloud](#)
-- [Observability with Prometheus + Grafana](#)
-<!-- BLOG-POST-LIST:END -->
-
-
----
-
-
-> whoami
-👨‍💻 Steven (Yarzar Sein Win) | Principal DevOps Engineer  
-
-> skills --list
-🛠️ Kubernetes | CI/CD | Terraform | GitOps | Cloud-Native | DevSecOps | SRE | Observability  
-
-> contact --email
-📧 yarzarseinwin@gmail.com  
-
----
-
-### 🏆 Key Achievements
-- 🚀 Built **Enterprise-Scale Kubernetes CI/CD (GitOps + DevSecOps)** at SSMC  
-- ☁️ Designed **Multi-Cloud Infrastructure with Terraform** (AWS + GCP)  
-- 🔐 Led adoption of **Cloud-Native Security Practices** company-wide  
-- 📈 Improved deployment velocity by **300%** with modern pipelines  
-
-
----
-
-### 📝 Latest Posts
-<!-- BLOG-POST-LIST:START -->
-- [Kubernetes GitOps with ArgoCD](#)
-- [Multi-Cloud with Terraform](#)
-- [SRE Best Practices in Real-World Systems](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-
 
 
