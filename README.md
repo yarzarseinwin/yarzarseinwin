@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00CFFF&center=true&vCenter=true&width=1000&lines=Kubernetes+%7C+Cloud-Native+%7C+CI%2FCD;DevOps+%7C+DevSecOps+%7C+GitOps+%7C+SRE;Scaling+Infrastructure+%7C+Automating+Everything)](https://git.io/typing-svg)
 
 
-<h1 align="center">Hi 👋, I'm Steven (Yarzar Sein Win)</h1>
+<h1 align="center">Hi 👋, I'm Steven</h1>
 <h4 align="center">🚀 Principal Engineer | Kubernetes | Cloud-Native | DevOps | DevSecOps | GitOps | SRE</h4>
 
 <p align="center">
@@ -127,7 +127,6 @@ Datadog, OpenTelemetry, Prometheus, Grafana, ELK / Elastic Observability, Jaeger
 **📜 Infrastructure as Code Stack:**  
 Terraform, Ansible  
 
----
 
 ## 🏗️ Infra Stack  
 **☸️ Kubernetes Stack**  
@@ -148,7 +147,6 @@ Palo Alto, FortiGate, Cisco FirePower, Cisco ISE, Aruba ClearPass, Bluecoat Prox
 **🛡️ SOC Center Stack**  
 Tenable, IBM QRadar, Splunk, Incident Response  
 
----
 
 ## 💻 Programming Stack  
 
@@ -167,23 +165,22 @@ ServiceNow, Jira
 ---
 
 
-
-### 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yarzarseinwin&show_icons=true&theme=radical" alt="github stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yarzarseinwin&theme=radical" alt="streak stats" height="160"/>
 </p>
 
 ---
+<h2 align="center">🚀 Featured Projects</h2>
 
-### 🚀 Featured Projects  
 - 🔹 [Cloud-Native CI/CD with GitOps](#) — Automating CI/CD with ArgoCD & Tekton  
 - 🔹 [Kubernetes Observability Stack](#) — Prometheus, Grafana, Loki & Jaeger integration  
 - 🔹 [Terraform AWS Infrastructure](#) — Scalable multi-region AWS infrastructure with IaC  
 
 ---
 
-### ⚡ Fun Fact  
+<h2 align="center">⚡ Fun Fact</h2>
 *"DevOps isn’t just about tools — it’s about culture, automation, and delivering value at scale."*  
 
 <p align="center">
