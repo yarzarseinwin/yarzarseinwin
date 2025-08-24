@@ -52,20 +52,16 @@
 <p align="center">
   <img src="assets/icons/jenkins.svg" width="40"/>
   <img src="assets/icons/gitlab.svg" width="40"/>
-  <img src="assets/icons/gitlab-ci.svg" width="40"/>
   <img src="assets/icons/github.svg" width="40"/>
   <img src="assets/icons/github-actions.svg" width="40"/>
   <img src="assets/icons/argocd.svg" width="40"/>
-  <img src="assets/icons/argo-rollouts.svg" width="40"/>
   <img src="assets/icons/junit.svg" width="40"/>
-  <img src="assets/icons/xunit.svg" width="40"/>
   <img src="assets/icons/maven.svg" width="40"/>
   <img src="assets/icons/msbuild.svg" width="40"/>
   <img src="assets/icons/gradle.svg" width="40"/>
   <img src="assets/icons/nexus.svg" width="40"/>
   <img src="assets/icons/jfrog-artifactory.svg" width="40"/>
-  <img src="assets/icons/docker-build.svg" width="40"/>
-  <img src="assets/icons/aws-ecr.svg" width="40"/>
+  <img src="assets/icons/amazon-ecr.svg" width="40"/>
   <img src="assets/icons/harbor.svg" width="40"/>
   <img src="assets/icons/trivy.svg" width="40"/>
   <img src="assets/icons/sonarqube.svg" width="40"/>
@@ -115,7 +111,6 @@
   <img src="assets/icons/servicenow.svg" width="40"/>
   <img src="assets/icons/jira.svg" width="40"/>
 </p>
-
 
 ---
 
