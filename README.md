@@ -42,6 +42,11 @@
 
 
 ---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7A5&center=true&vCenter=true&width=1000&lines=Principal+DevOps+Engineer;Kubernetes+%7C+Cloud-Native+%7C+SRE;CI%2FCD+%7C+GitOps+%7C+DevSecOps;Scaling+Infrastructure+%7C+Automating+Everything)](https://git.io/typing-svg)
+
+
+---
 ### ⚒️ Tech Stack & Tools
 <p align="center">
   <img src="assets/icons/jenkins.svg" width="40"/>
@@ -195,18 +200,85 @@ ServiceNow, Jira
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <!-- DevOps & CI/CD -->
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/ArgoCD-FF4F00?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo_Rollouts-FF4F00?style=for-the-badge&logo=argo&logoColor=white" />
+  
+  <!-- Build & Artifact -->
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/xUnit-FF0000?style=for-the-badge&logo=xunit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSBuild-512BD4?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nexus-000000?style=for-the-badge&logo=nexus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JFrog_Artifactory-FF6200?style=for-the-badge&logo=jfrog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Build-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_ECR-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Harbor-0C1C2B?style=for-the-badge&logo=harbor&logoColor=white" />
+
+  <!-- DevSecOps -->
+  <img src="https://img.shields.io/badge/Trivy-000000?style=for-the-badge&logo=trivy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snyk-6F43E5?style=for-the-badge&logo=snyk&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-FA5252?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenPubkey-000000?style=for-the-badge&logo=openpgp&logoColor=white" />
+
+  <!-- Testing -->
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Locust-00B6E3?style=for-the-badge&logo=locust&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-D00000?style=for-the-badge&logo=jmeter&logoColor=white" />
+
+  <!-- Monitoring / Observability -->
+  <img src="https://img.shields.io/badge/Datadog-4300FF?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-00BFB3?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jaeger-F96A3C?style=for-the-badge&logo=jaeger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kiali-3F9C35?style=for-the-badge&logo=kiali&logoColor=white" />
+
+  <!-- Kubernetes / Cloud -->
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rancher_Manager-0075C4?style=for-the-badge&logo=rancher&logoColor=white" />
+  <img src="https://img.shields.io/badge/RKE2-000000?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F63AF?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kustomize-007ACC?style=for-the-badge&logo=kustomize&logoColor=white" />
+  <img src="https://img.shields.io/badge/Istio-FF6363?style=for-the-badge&logo=istio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Envoy-3B4E76?style=for-the-badge&logo=envoy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Calico-326CE5?style=for-the-badge&logo=calico&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cilium-2C9AB7?style=for-the-badge&logo=cilium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hubble_UI-000000?style=for-the-badge&logo=hubble&logoColor=white" />
+  <img src="https://img.shields.io/badge/eBPF-000000?style=for-the-badge&logo=ebpf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Consul-000000?style=for-the-badge&logo=consul&logoColor=white" />
+
+  <!-- OS -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+  <!-- Programming & Database -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <!-- API & Project Management -->
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ocelot-000000?style=for-the-badge&logo=ocelot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-2E9AFE?style=for-the-badge&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarzarseinwin&layout=compact&theme=radical" alt="top languages" />
-</p>
 
 ---
 
@@ -264,11 +336,6 @@ ServiceNow, Jira
 
 ---
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7A5&center=true&vCenter=true&width=1000&lines=Principal+DevOps+Engineer;Kubernetes+%7C+Cloud-Native+%7C+SRE;CI%2FCD+%7C+GitOps+%7C+DevSecOps;Scaling+Infrastructure+%7C+Automating+Everything)](https://git.io/typing-svg)
-
-
----
 
 
 
