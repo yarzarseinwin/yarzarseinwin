@@ -8,6 +8,10 @@
 </p>
 
 
+> 🧠 *"Automating today, scaling tomorrow — DevOps is not a role, it’s a culture."*
+
+---
+
 ---
 
 ### 🌟 About Me  
@@ -29,10 +33,6 @@
 
 ---
 
-
-> 🧠 *"Automating today, scaling tomorrow — DevOps is not a role, it’s a culture."*
-
----
 ### 🤝 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/yarzar-sein-win-steven-295219104" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
