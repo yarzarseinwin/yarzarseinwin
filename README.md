@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Steven (Yarzar Sein Win)</h1>
-<h3 align="center">🚀 Principal Engineer | Kubernetes | Gen-3 CI/CD (CI with DevSecOps & CD with GitOps) | Cloud-Native | SRE</h3>
+<h4 align="center">🚀 Principal Engineer | Kubernetes | Gen-3 CI/CD (CI with DevSecOps & CD with GitOps) | Cloud-Native | SRE</h4>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yarzarseinwin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yarzarseinwin&theme=onedark&margin-w=10&margin-h=10" alt="trophies"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=yarzarseinwin&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Followers-246-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/yarzarseinwin?style=for-the-badge&color=0e75b6" />
 </p>
+
 
 ---
 
