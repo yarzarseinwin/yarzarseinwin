@@ -40,12 +40,6 @@
 <a href="https://dev.to/yarzarseinwin" target="_blank"><img src="https://skillicons.dev/icons?i=devto" height="40"/></a>
 </p>
 
----
-
-### ⚒️ Tech Stack & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,git,linux,prometheus,grafana,elasticsearch,java,python,react,mysql,postgres,postman,selenium,tensorflow,spring" />
-</p>
 
 ---
 ### ⚒️ Tech Stack & Tools
