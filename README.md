@@ -64,9 +64,9 @@
   <img src="assets/icons/selenium.svg" width="40"/>
   <img src="assets/icons/datadog.svg" width="40"/>
   <img src="assets/icons/opentelemetry.svg" width="40"/>
-  <img src="assets/icons/Elastic Search.svg" width="40"/>
   <img src="assets/icons/prometheus.svg" width="40"/>
   <img src="assets/icons/grafana.svg" width="40"/>
+  <img src="assets/icons/Elastic Search.svg" width="40"/>
   <img src="assets/icons/Logstash.svg" width="40"/>
   <img src="assets/icons/Kibana.svg" width="40"/>
   <img src="assets/icons/jaeger.svg" width="40"/>
