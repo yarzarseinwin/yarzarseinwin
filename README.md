@@ -184,6 +184,24 @@ ServiceNow, Jira
 </p>
 
 
+---
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=yarzarseinwin&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="160"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yarzarseinwin&theme=radical&hide_border=true" alt="GitHub Streak" height="160"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarzarseinwin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
