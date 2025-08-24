@@ -165,16 +165,24 @@ ServiceNow, Jira
 ---
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yarzarseinwin&show_icons=true&theme=radical" alt="github stats" height="160"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yarzarseinwin&theme=radical" alt="streak stats" height="160"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=yarzarseinwin&show_icons=true&theme=radical&hide_border=true&border_radius=20" alt="GitHub Stats" height="180"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yarzarseinwin&theme=radical&hide_border=true&border_radius=20" alt="Streak Stats" height="180"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarzarseinwin&layout=compact&theme=radical&hide_border=true&border_radius=20" alt="Top Languages" height="180"/>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 
 ---
