@@ -179,13 +179,6 @@ ServiceNow, Jira
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yarzarseinwin&show_icons=true&theme=radical" alt="github stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yarzarseinwin&theme=radical" alt="streak stats" height="160"/>
-</p>
-
----
 <h2 align="center">🚀 Featured Projects</h2>
 
 - 🔹 [Cloud-Native CI/CD with GitOps](#) — Automating CI/CD with ArgoCD & Tekton  
