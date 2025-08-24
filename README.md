@@ -65,10 +65,7 @@
   <img src="assets/icons/sonarqube.svg" width="40"/>
   <img src="assets/icons/snyk.svg" width="40"/>
   <img src="assets/icons/owasp-zap.svg" width="40"/>
-  <img src="assets/icons/openpubkey.svg" width="40"/>
   <img src="assets/icons/selenium.svg" width="40"/>
-  <img src="assets/icons/locust.svg" width="40"/>
-  <img src="assets/icons/jmeter.svg" width="40"/>
   <img src="assets/icons/datadog.svg" width="40"/>
   <img src="assets/icons/opentelemetry.svg" width="40"/>
   <img src="assets/icons/prometheus.svg" width="40"/>
