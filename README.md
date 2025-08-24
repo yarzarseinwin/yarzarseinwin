@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven (Yarzar Sein Win)</h1>
-<h4 align="center">🚀 Principal Engineer | Kubernetes | Gen-3 CI/CD (CI with DevSecOps & CD with GitOps) | Cloud-Native | SRE</h4>
+<h4 align="center">🚀 Principal Engineer | Kubernetes | Cloud-Native | DevOps | DevSecOps | GitOps | SRE</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yarzarseinwin&label=Profile%20views&color=0e75b6&style=for-the-badge" />
