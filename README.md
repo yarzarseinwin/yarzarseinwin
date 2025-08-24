@@ -1,9 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00CFFF&center=true&vCenter=true&width=1000&lines=Kubernetes+%7C+Cloud-Native+%7C+CI%2FCD;DevOps+%7C+DevSecOps+%7C+GitOps+%7C+SRE;Scaling+Infrastructure+%7C+Automating+Everything)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00CFFF&center=true&vCenter=true&width=1000&lines=Kubernetes+%7C+Cloud-Native+%7C+CI%2FCD;DevOps+%7C+DevSecOps+%7C+GitOps+%7C+SRE;Scaling+Infrastructure+%7C+Automating+Everything)](https://git.io/typing-svg)
 
-
-
-
----
 
 <h1 align="center">Hi 👋, I'm Steven (Yarzar Sein Win)</h1>
 <h4 align="center">🚀 Principal Engineer | Kubernetes | Cloud-Native | DevOps | DevSecOps | GitOps | SRE</h4>
