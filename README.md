@@ -107,7 +107,7 @@
   <img src="assets/icons/jira.svg" width="40"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=600&color=00F7A5&center=true&vCenter=true&width=1200&lines=Jenkins+%7C+GitLab+CI%2FCD+%7C+GitHub+Actions+%7C+ArgoCD;GitHub+%7C+GitLab+%7C+JUnit+%7C+Maven+%7C+Gradle;Nexus+%7C+JFrog+Artifactory+%7C+AWS+ECR+%7C+Harbor;Trivy+%7C+SonarQube+%7C+Snyk+%7C+OWASP+ZAP+%7C+OpenPubKey;Selenium+%7C+Locust+%7C+JMeter;Datadog+%7C+OpenTelemetry)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=600&color=00CFFF&center=true&vCenter=true&width=1200&lines=Jenkins+%7C+GitLab+CI%2FCD+%7C+GitHub+Actions+%7C+ArgoCD;GitHub+%7C+GitLab+%7C+JUnit+%7C+Maven+%7C+Gradle;Nexus+%7C+JFrog+Artifactory+%7C+AWS+ECR+%7C+Harbor;Trivy+%7C+SonarQube+%7C+Snyk+%7C+OWASP+ZAP+%7C+OpenPubKey;Selenium+%7C+Locust+%7C+JMeter;Datadog+%7C+OpenTelemetry)](https://git.io/typing-svg)
 
 
 ## ⚙️ DevOps Stack  
