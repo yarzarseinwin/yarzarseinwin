@@ -163,7 +163,9 @@ Spring Cloud, Ocelot, Postman
 ServiceNow, Jira  
 
 ---
+![Fake A+](https://img.shields.io/badge/GitHub%20Stats-A%2B-blue?style=for-the-badge&logo=github)
 
+---
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
