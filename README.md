@@ -52,7 +52,7 @@
 <p align="center">
   <img src="assets/icons/jenkins.svg" width="40"/>
   <img src="assets/icons/gitlab.svg" width="40"/>
-  <img src="assets/icons/github-1.svg" width="40"/>
+  <img src="assets/icons/github.svg" width="40"/>
   <img src="assets/icons/github-actions.svg" width="40"/>
   <img src="assets/icons/argocd.svg" width="40"/>
   <img src="assets/icons/junit.svg" width="40"/>
